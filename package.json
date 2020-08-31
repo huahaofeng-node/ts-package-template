@@ -1,6 +1,6 @@
 {
   "name": "ts-package-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -50,8 +50,7 @@
     "typescript": "^3.7.4",
     "rimraf": "^3.0.2"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "files": [
     "dist/**/*"
   ]
