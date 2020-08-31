@@ -2,18 +2,18 @@
 
 ## Workflow
 
-#### Clone this template
+### Clone this template
 ```bash
 git clone https://github.com/huahaofeng/ts-package-template.git
 ```
 
-#### Edit package.json
+### Edit package.json
 Modify `name`, `version`, `description`, `repository` fields as your own.
 
-#### Develop
+### Develop
 Develop your npm package as you need based on this template.
 
-#### Run test cases
+### Run test cases
 Add Test cases for your package as /test/\*.e2e-spec.ts or /src/lib/\*.spec.ts.
 Run test scripts from package.json as you need.
 ```bash
@@ -21,7 +21,7 @@ npm run test
 npm run test:e2e
 ```
 
-#### Generate new version 
+### Generate new version 
 Generate a new version for your package automatically, actually it will do all tasks in order as follows:
 * lint your code
 * run test cases
@@ -36,7 +36,7 @@ See https://docs.npmjs.com/misc/scripts for more information about npm script ho
 npm version patch # one of patch, minor, major, prepatch, preminor, premajor, prerelease, see https://docs.npmjs.com/cli/version
 ```
 
-#### Publish to NPM registry
+### Publish to NPM registry
 Compile and publish package to npm registry, actually it will do all tasks in order as follows:
 * build package
 * lint your code
@@ -50,7 +50,7 @@ See https://docs.npmjs.com/misc/scripts for more information about npm script ho
 npm run publish:npm
 ```
 
-#### Install
+### Install
 After package is published to npm registry or pushed to github, you can install this package either     
 **from npm registry** (replace `[ts-package-template]` with your package name):
 ```bash
