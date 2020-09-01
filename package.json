@@ -1,6 +1,6 @@
 {
   "name": "ts-package-template",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -25,7 +25,14 @@
     "type": "git",
     "url": "git+https://github.com/huahaofeng/ts-package-template.git"
   },
-  "keywords": ["typescript", "ts", "package", "module", "npm", "template"],
+  "keywords": [
+    "typescript",
+    "ts",
+    "package",
+    "module",
+    "npm",
+    "template"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
