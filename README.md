@@ -2,10 +2,9 @@
 
 ## Workflow
 
-### Clone this template
-```bash
-git clone https://github.com/huahaofeng/ts-package-template.git
-```
+### Use this template
+Click "Use this template" to create your own repository based on this template. Or see [creating-a-repository-from-a-template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) for more information.
+![](https://docs.github.com/assets/images/help/repository/use-this-template-button.png)
 
 ### Edit package.json
 Modify `name`, `version`, `description`, `repository` fields as your own.
