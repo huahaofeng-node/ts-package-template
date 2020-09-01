@@ -25,6 +25,7 @@
     "type": "git",
     "url": "git+https://github.com/huahaofeng/ts-package-template.git"
   },
+  "keywords": ["typescript", "ts", "package", "module", "npm", "template"],
   "author": "",
   "license": "ISC",
   "bugs": {
